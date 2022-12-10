@@ -21,7 +21,7 @@ func _physics_process(_delta):
 
 func start_dialogue(d):
 	dialogue = d.duplicate()
-	dialogue.pos = 0
+	dialogue_pos = 0
 	show()
 
 func hide_dialogue():

@@ -5,9 +5,8 @@ onready var Dialogue = get_node("/root/Game/UI/Dialogue")
 
 var dialogue = [
 	"Welcome! Press E to continue"
-	,"Please shoot the targets with the spacebar and defeat the drone before time runs out."
+	,"Please shoot the targets with the spacebar before time runs out."
 	,"3...2...1... Go!"
-	,"test"
 ]
 
 func _ready():
