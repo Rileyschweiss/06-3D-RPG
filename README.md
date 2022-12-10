@@ -1,13 +1,25 @@
-# 3D-Character
+# 06 3D RPG
+A 3D RPG created in Godot on December 10th, 2022.
 
-An animated 3D character that can be used in the 3D-RPG project
-
-Based on the [Kenney Character Assets](https://kenney.itch.io/kenney-character-assets) provided by kenney.nl. The model and animations were compiled in Blender and then imported into Godot.
+Target shooting game
 
 ## Implementation
+Includes a user-controlled third-person 3D player
+The camera follows the movement of the player
+The player's model is animated
+Includes at least one AI agent
+Includes a dialogue conversation with an agent
+Reports the player's score
+The game includes terrain and/or obstacles
+The game includes a hand-held item or weapon with which the player can influence the world
+The game has a clear objective
+Timer and health
 
-Created in Blender 3.1.2 and Godot 3.5
-
-## Created By
-
-Jason Francis
+## References
+- Kenney.nl for the skins
+- terrain pack from itch.io
+- pbr materials from cc0 textures
+## Future Development
+none
+## Created by
+Riley Schweiss
